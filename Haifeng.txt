@@ -1,1 +1,17 @@
-Haifeng: 
+Haifeng: without merge
+Codeshare logo
+git clone git@github.com:aecgroupe23611/ProjetJava.git
+cd ProjetJava
+git config --local user.name "votreusername"
+git config --local user.email "votrecourielutilisepourgithub"
+touch votrenom.json (sinon tu le créera manuellement)
+git status
+git add .
+git status
+git commit -m "je suis votre nom"
+git status
+git branch -M main
+git push -u origin main (sinon on fait git pull et ensuite git push)
+
+
+
