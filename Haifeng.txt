@@ -1,33 +1,17 @@
 Haifeng: 
 Codeshare logo
- ShareSign UpLog In
-1
 git clone git@github.com:aecgroupe23611/ProjetJava.git
-2
 cd ProjetJava
-3
 git config --local user.name "votreusername"
-4
 git config --local user.email "votrecourielutilisepourgithub"
-5
 touch votrenom.json (sinon tu le créera manuellement)
-6
 git status
-7
 git add .
-8
 git status
-9
 git commit -m "je suis votre nom"
-10
 git status
-11
-git branch -M mai
-12
-git push
-13
-​
-
+git branch -M main
+git push -u origin main (sinon on fait git pull et ensuite git push)
 
 
 
