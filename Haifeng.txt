@@ -1,4 +1,4 @@
-Haifeng: 
+Haifeng: without merge
 Codeshare logo
 git clone git@github.com:aecgroupe23611/ProjetJava.git
 cd ProjetJava
