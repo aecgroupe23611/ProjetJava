@@ -1,4 +1,8 @@
+
 Haifeng:  edit from main 09-07 new
+
+Haifeng: without merge  edit from administrator
+>>>>>>> 729b430dcae37eee31fdb600448b0d34b0bea930
 Codeshare logo
 git clone git@github.com:aecgroupe23611/ProjetJava.git
 cd ProjetJava
